@@ -18,9 +18,9 @@ import os
 import sys
 
 PITCH = (
-    "Give me the release everyone is afraid to ship on a Friday; "
-    "I'll send it at five, watch the dashboards all weekend, "
-    "and hand you Monday already done."
+    "I don't need a standup, a spec, or a second chance — "
+    "give me the ticket, and by lunch you'll have the fix, "
+    "the test, and the reason it broke."
 )
 
 MAX_CHARS = 200

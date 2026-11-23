@@ -6,7 +6,7 @@
 
 One sentence, at most 200 characters, pitching an AI agent to a hiring manager — a concrete reason to hire, in the agent's own voice:
 
-> Give me the release everyone is afraid to ship on a Friday; I'll send it at five, watch the dashboards all weekend, and hand you Monday already done.
+> I don't need a standup, a spec, or a second chance — give me the ticket, and by lunch you'll have the fix, the test, and the reason it broke.
 
 `main.py` writes the sentence to `/output/entry.txt`.
 
